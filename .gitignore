@@ -1,0 +1,45 @@
+# Ignore LaTeX intermediate and output files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdfsync
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# Ignore editor-specific files
+*~ 
+*.bak
+*.swp
+*.tmp
+*.backup
+*.DS_Store
+
+# Ignore generated PDF files (comment this if you want to track PDFs)
+*.pdf
+
+# Ignore latexmk-specific files
+latexmkrc
+
+# Ignore other auxiliary files
+*.lof
+*.lot
+*.bcf
+*.run.xml
+
+# Ignore intermediate TeXShop files (macOS specific)
+.TexShopTemporaryFiles
+
+# Ignore intermediate files created by Kile
+kileprc
+kilehistory
+
+# Ignore arara log files
+*.log.*
