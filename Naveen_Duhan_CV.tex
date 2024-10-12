@@ -1,0 +1,81 @@
+\documentclass[a4paper, skipsamekey, 11pt, english]{curve}
+
+\PassOptionsToPackage{style=apa,sorting=ydnt,uniquename=init,defernumbers=true}{biblatex}
+
+\usepackage{settings}
+
+\DefineBibliographyStrings{english}{url={\textsc{url}}}
+
+\addbibresource{mypub.bib}
+
+\mynames{Duhan\bibnamedelima{}Naveen,
+  Naveen\bibnamedelima{}Duhan,
+  Duhan.\bibnamedelimi{}N.}
+
+\ifxetexorluatex{}
+ \usepackage{fontspec} 
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage[medium,bold]{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\else % If you're using pdfLaTeX or latex 
+  \usepackage[T1]{fontenc}
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage{cabin}
+  % \usepackage[varqu,varl,scale=0.9]{zi4}
+  \usepackage{mathptmx}
+\usepackage[scaled=0.9]{helvet}
+\usepackage{courier}
+\fi
+
+\hbadness=99999
+
+
+\thispagestyle{plain}
+
+\usepackage{array}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+
+\leftheader{%
+  \center{\LARGE\bfseries\sffamily Naveen Duhan}
+  \vskip 0.1in
+
+  \makefield{\faEnvelope[regular]}{\href{mailto:naveen.duhan@outlook.com}{\texttt{naveen.duhan@outlook.com}}}
+  \makefield{\faGithub}{\href{https://github.com/navduhan/}{\texttt{Github}}}
+  \makefield{\faLinkedin}{\href{http://www.linkedin.com/in/navduhan/}{\texttt{Linkedin}}}
+  \makefield{\faResearchgate}{\href{https://www.researchgate.net/profile/Naveen-Duhan}{\texttt{ResearchGate}}}
+
+  \makefield{\faGoogle}{\href{https://scholar.google.com/citations?user=kvf8JJQAAAAJ&hl=en}{\texttt{Google Scholar}}}
+  \makefield{\faGlobe}{\url{https://naveenduhan.com}}
+% You can use a tabular here if you want to line up the fields.
+}
+\rightheader{~}
+
+\title{Curricullum Vitae}
+\begin{document}
+\makeheaders[c]
+\makerubric{summary}
+\makerubric{employment}
+\makerubric{education}
+\makerubric{awards}
+\makerubric{grants}
+\makerubric{software}
+\input{research}
+\input{teaching}
+\input{publications}
+\makerubric{lectures}
+
+\input{extras}
+\makerubric{media}
+
+\pagebreak
+% \makerubric{reference}
+
+
+\input{reference-full}
+
+
+
+
+\end{document}
+
+
