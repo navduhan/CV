@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Naveen_Duhan_CV"] 0 "Naveen_Duhan_CV.bcf" "Naveen_Duhan_CV.bbl" "Naveen_Duhan_CV" 1728269501.49624 -1
-  "Naveen_Duhan_CV.bcf" 1728269501.3452 133295 fbe79679a4bea01243efecc5cfe2e29d "pdflatex"
+["biber Naveen_Duhan_CV"] 1728708483.81367 "Naveen_Duhan_CV.bcf" "Naveen_Duhan_CV.bbl" "Naveen_Duhan_CV" 1728708495.36402 0
+  "Naveen_Duhan_CV.bcf" 1728708495.21565 133295 fbe79679a4bea01243efecc5cfe2e29d "pdflatex"
   "mypub.bib" 1722029387.027 22338 76fa500be092ee97f6ad182055a5f230 ""
   (generated)
   "Naveen_Duhan_CV.bbl"
   "Naveen_Duhan_CV.blg"
   (rewritten before read)
-["pdflatex"] 1728269498.08215 "/Users/naveen/Documents/CV/Naveen_Duhan_CV.tex" "Naveen_Duhan_CV.pdf" "Naveen_Duhan_CV" 1728269501.49658 0
-  "/Users/naveen/Documents/CV/Naveen_Duhan_CV.tex" 1728269492.6509 1994 ec00c79be84a113373b84a4ba01d3a5f ""
+["pdflatex"] 1728708491.95977 "/Users/naveen/Documents/CV/Naveen_Duhan_CV.tex" "Naveen_Duhan_CV.pdf" "Naveen_Duhan_CV" 1728708495.3644 0
+  "/Users/naveen/Documents/CV/Naveen_Duhan_CV.tex" 1728708481.56183 1993 b2298833bf6ceb86fad0135a5276c4fa ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1710106625 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/cochineal/coch_mzvjrl.enc" 1710106625 3339 01645df27401be56dadafffd238bede0 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc" 1710106625 3327 9b65464e10cac7aab6e1e25d12d2e0dc ""
@@ -289,11 +289,11 @@
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/xpatch/xpatch.sty" 1710106625 8314 7803f78066c4f9d008405191a4b43073 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221848 7ed3f6bcd265dba7ee923188c9bb02cd ""
-  "Naveen_Duhan_CV.aux" 1728269501.34008 11960 83e3df724cc4ee5b528eb6fed54d8b5e "pdflatex"
-  "Naveen_Duhan_CV.bbl" 1728268612.74594 234866 96a1378b47046ce1f91403efa3c4809a "biber Naveen_Duhan_CV"
-  "Naveen_Duhan_CV.out" 1728269499.21638 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Naveen_Duhan_CV.run.xml" 1728269501.34595 2499 cd5863b5c2937c66b61b0e8e0c5fcc24 "pdflatex"
-  "Naveen_Duhan_CV.tex" 1728269492.6509 1994 ec00c79be84a113373b84a4ba01d3a5f ""
+  "Naveen_Duhan_CV.aux" 1728708495.21038 11960 83e3df724cc4ee5b528eb6fed54d8b5e "pdflatex"
+  "Naveen_Duhan_CV.bbl" 1728708485.12308 234866 96a1378b47046ce1f91403efa3c4809a "biber Naveen_Duhan_CV"
+  "Naveen_Duhan_CV.out" 1728708493.09064 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Naveen_Duhan_CV.run.xml" 1728708495.21648 2499 cd5863b5c2937c66b61b0e8e0c5fcc24 "pdflatex"
+  "Naveen_Duhan_CV.tex" 1728708481.56183 1993 b2298833bf6ceb86fad0135a5276c4fa ""
   "awards.tex" 1722029015.117 710 1f0341a8b558859ff713b37f90e6803c ""
   "education.tex" 1722029015.117 919 37a68559187699c9010c1ba4e5b12b09 ""
   "employment.tex" 1722051221.777 703 13042639a36df1e8ec5365a7346dbf2b ""

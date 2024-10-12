@@ -1,0 +1,35 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'Naveen_Duhan_CV.blg'
+[41] biber:340> INFO - === Fri Oct 11, 2024, 23:48:04
+[52] Biber.pm:420> INFO - Reading 'Naveen_Duhan_CV.bcf'
+[110] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[122] Biber.pm:4463> INFO - Processing section 0
+[127] Biber.pm:4654> INFO - Looking for bibtex file 'mypub.bib' for section 0
+[129] bibtex.pm:1713> INFO - LaTeX decoding ...
+[159] bibtex.pm:1519> INFO - Found BibTeX data source 'mypub.bib'
+[401] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[401] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[401] Biber.pm:4283> INFO - Sorting list 'ydnt/apasortcite//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[401] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[481] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[481] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[481] Biber.pm:4283> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[481] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[525] bbl.pm:676> INFO - Writing 'Naveen_Duhan_CV.bbl' with encoding 'UTF-8'
+[567] bbl.pm:779> INFO - Output to Naveen_Duhan_CV.bbl
+[567] Biber.pm:131> WARN - Possible typo (case mismatch) between datasource keys: 'duhan2012' and 'Duhan2012' in file 'mypub.bib'
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 58, warning: 9 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 342, warning: 2 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 350, warning: 2 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 358, warning: 2 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 366, warning: 2 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 374, warning: 2 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 384, warning: 2 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 392, warning: 2 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 400, warning: 2 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 408, warning: 2 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 417, warning: 3 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 425, warning: 3 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 433, warning: 3 characters of junk seen at toplevel
+[567] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/kd/fwrys3490gs9kgv6mxgk6lsh0000gn/T/biber_tmp_jT8s/af16ff16cd6ed28bbea53525419746cf_21361.utf8, line 442, warning: 3 characters of junk seen at toplevel
+[567] Biber.pm:133> INFO - WARNINGS: 15
