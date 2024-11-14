@@ -43,3 +43,5 @@ kilehistory
 
 # Ignore arara log files
 *.log.*
+
+Icon$'\r'
