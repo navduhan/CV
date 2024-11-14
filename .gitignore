@@ -45,3 +45,5 @@ kilehistory
 *.log.*
 
 Icon$'\r'
+
+*/Icon$'\r'
